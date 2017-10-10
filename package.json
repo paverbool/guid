@@ -15,6 +15,7 @@
       "name": "Tommy Messbauer"
   }],
   "main": "./guid",
+  "types": "./guid.d.ts",
   "licenses": [
     {
       "type": "MIT",
